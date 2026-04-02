@@ -1,0 +1,10 @@
+ini di buat agar folder bisa di push ke git 
+
+Step 2: Understand Client–Server Architecture
+Client (browser) : it is the user's device , such as chrome , safari , etc. It HTTP requests and rendersn the UI , but does not have any business logic beyond interation handling
+Frontend ( UI Layer) : It is the framework that handles users interactions , collects inputs and send requests to backend through APIs. 
+Backend ( Server) : It is the application that processes requests , applies business logics , handles authentication and communicates with databases. 
+Database (MongoDB – conceptual) : This is where data is stored.  MongoDB is a non SQL database that stores data in flexible JSON like documents
+
+Architecture flow 
+[ Client (Browser) ] ⇄ [ Frontend (UI Layer) ] ⇄ [ Backend (Server) ] ⇄ [ Database (MongoDB) ]
