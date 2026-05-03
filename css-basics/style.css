@@ -1,0 +1,55 @@
+.container{ 
+    width : 10em;
+    height : 1em;
+    margin : 10em auto;
+    padding : 3em; 
+    border : 1cap solid black;
+    background-color: red;
+
+}
+
+.containerf { 
+    display : flex; 
+    flex-direction:row;
+    justify-content: flex-end;
+    align-items: center; 
+    HEIGHT : 10em;
+
+}
+
+form  h3{ 
+    font-style: italic;
+    display:  flex;
+    justify-content: center;
+    }
+form {
+    display : flex;
+    flex-direction: column;
+  
+    padding :3em; 
+    background-color: lightblue;
+}
+
+input[type ="text"]{ 
+    margin : 0.5em;
+    padding : 0.2em;
+    border : 0.2em solid green;
+    border-radius : 0.5em;
+}
+
+
+button{ 
+    margin : 0.5em;
+    padding : 0.2em;
+    width : 20em;
+    align-self: center;
+    border : 0.2em solid rgb(34, 11, 209);
+    border-radius : 0.5em;
+    background-color: rgb(124, 129, 197);
+}
+
+.buttons{ 
+    display : flex;
+    gap : 1em;
+
+}

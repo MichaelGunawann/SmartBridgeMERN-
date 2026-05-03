@@ -1,4 +1,3 @@
-ini di buat agar folder bisa di push ke git 
 
 Step 2: Understand Client–Server Architecture
 Client (browser) : it is the user's device , such as chrome , safari , etc. It HTTP requests and rendersn the UI , but does not have any business logic beyond interation handling
