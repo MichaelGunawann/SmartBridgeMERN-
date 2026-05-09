@@ -9,3 +9,5 @@ Promise.resolve().then(() => {
 });
 
 console.log("End");
+
+//Microtask (Promise) dijalankan lebih dulu daripada macrotask (setTimeout).

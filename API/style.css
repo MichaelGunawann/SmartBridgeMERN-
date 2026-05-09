@@ -1,0 +1,28 @@
+.container{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+button{ 
+    padding : 2vh 4vh;
+    font-size: 1.5rem;  
+    border : 0.5vh solid #000;
+    background-color: aqua;
+    cursor : pointer; 
+}
+
+button:hover{ 
+    background-color:red;
+}
+
+#output{ 
+    background-color: #f0f0f0;
+    height : 20vh;
+    text-align: left; 
+    padding : 1vh;
+    margin-top: 2vh;
+    width : 50%;
+}

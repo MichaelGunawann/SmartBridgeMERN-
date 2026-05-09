@@ -9,3 +9,5 @@ Promise.resolve().then(() => {
 });
 
 console.log("D");
+
+///Synchronous code dijalankan dulu, lalu microtask, lalu macrotask.

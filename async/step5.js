@@ -7,3 +7,5 @@ async function test() {
 console.log("3");
 test();
 console.log("4");
+
+//await hanya menghentikan function async, bukan seluruh program.
