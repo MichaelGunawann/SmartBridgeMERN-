@@ -1,4 +1,3 @@
-// src/App.js
 
 function App() {
   const name = "John Doe";

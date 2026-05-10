@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem;
+  background: #1a1a2e;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
+
+nav a.active {
+  background: #e94560;
+  font-weight: bold;
+}
